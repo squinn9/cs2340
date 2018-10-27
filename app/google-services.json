@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "714116247264",
+    "firebase_url": "https://goodsforsocialgood.firebaseio.com",
+    "project_id": "goodsforsocialgood",
+    "storage_bucket": "goodsforsocialgood.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:714116247264:android:e6efc67d9f830a59",
+        "android_client_info": {
+          "package_name": "cs2340.goodsforsocialgood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "714116247264-8c175f5jgd5spe4il5sup7illqs2k9ad.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "cs2340.goodsforsocialgood",
+            "certificate_hash": "635123f971308b36f2740f5d9b1cb41afae0653f"
+          }
+        },
+        {
+          "client_id": "714116247264-loqtobv7gqqkfh6c7dbm5kvkao3r169t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKyH113wq9aW4Hx4ppadjT1f_Uuy5VKGE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "714116247264-loqtobv7gqqkfh6c7dbm5kvkao3r169t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
